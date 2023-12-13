@@ -2,7 +2,7 @@
   <a href="">
     <img src="/react-p.svg" alt="Project Banner Image">
   </a>
-</h1>
+</h1> 
 
 # Technigo - React Portfolio Project
 
